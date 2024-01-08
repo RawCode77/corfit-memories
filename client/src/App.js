@@ -9,7 +9,7 @@ import memories from "./images/glenDC.png";
 import useStyles from "./styles";
 
 const App = () => {
-  const [currentId, setCurrentId] = useState(0);
+  const [currentId, setCurrentId] = useState(null);
   const dispatch = useDispatch();
   const classes = useStyles();
 
