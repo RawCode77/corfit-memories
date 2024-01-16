@@ -21,5 +21,9 @@ To deploy this project run
   run npm i && npm start for both client and server side to start the app
 ```
 
+## Task to completed
 
+- [ ] React + Redux, Node, Express, MongoDB
+- [x] MERN Auth - Login with Email (JWT) + Google OAuth Authentication
+- [x] Full Stack MERN Project - Pagination & Search
 
